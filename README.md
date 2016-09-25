@@ -6,4 +6,16 @@ Este projeto visa desenvolver um portal para acesso aos dados de pesquisa e cole
 
 ## Contexto
 
+Em 2014 o JBRJ assinou uma Carta de Acordo com o MCTI para o desenvolvimento do Projeto “Contribuições do Jardim Botânico do Rio de Janeiro à implementação do SiBBr – Sistema de Informação sobre a Biodiversidade Brasileira”. Este projeto, coordenado pela Dra Rafaela Forzza, possui quatro componentes:
+
+1. Repatriamento
+2. Flora do Brasil
+3. Herbário Virtual
+4. Integração de Dados
+
+O 4o componente possuia o seguinte objetivo:
+
+"Tornar o JBRJ uma instituição-modelo no tratamento, qualificação e compartilhamento de dados sobre biodiversidade, provendo dados qualificados sobre espécies, ocorrências, observações de campo e produção intelectual sobre a biodiversidade de plantas brasileira à sistemas voltados para integração, tratamento e análise de dados sobre biodiversidade, como o SiBBr, GBIF, Flora do Mundo Online, IUCN,etc.”
+
+
 ## Componentes
