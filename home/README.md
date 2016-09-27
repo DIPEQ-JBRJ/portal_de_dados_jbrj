@@ -1,1 +1,1 @@
-Aqui vem os arquivos de configuração da Home Page do Portal de Dados.
+Aqui vem os arquivos da Home Page do Portal de Dados.
