@@ -30,6 +30,8 @@ O componente "Integração de Dados" possuia o seguinte objetivo:
 
 - [**GeoNode**](http://geonode.org/) é uma plataforma livre para a catalogação e publicação de dados espaciais, em formato vetorial ou matricial. Os dados e metadados catalogados são oferecidos também como web services para acesso em outras aplicações. A EMBRAPA vem utilizando o GeoNode para publicação dos seus dados espaciais e auxiliando nossa equipe na customização da ferramenta.
 
-- **[TemaTres](http://www.vocabularyserver.com/)** é um gerenciador e servidor de Tesauros.
+- [**Dokuwiki**](https://www.dokuwiki.org/) é uma ferramenta *wiki* para publicação de textos online.
+
+- [**TemaTres**](http://www.vocabularyserver.com/)** é um gerenciador e servidor de Tesauros.
 
 - **[Swagger](http://swagger.io/)** é um *framework* para serviços (API) RESTful.
