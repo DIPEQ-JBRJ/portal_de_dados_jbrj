@@ -1,0 +1,32 @@
+Instale os pré-requisitos:
+
+#sudo apt-get update
+#sudo apt-get install apache2 mysql-server php5 php5-dev php5-gd php5-mysql subversion
+#sudo apt-get install vim nano imagemagick
+#sudo apt-get install ghostscript antiword xpdf libav-tools postfix libimage-exiftool-perl cron wget
+
+
+Instale o ResourceSpace
+
+#cd /var/www
+#sudo svn co http://svn.montala.net/svn/resourcespace 
+#cd resourcespace
+#sudo mkdir filestore
+#sudo chmod 777 filestore
+
+
+Logue no MySQl 
+
+#mysql -u root -p
+
+Crie o banco do ResouceSpace
+
+create database resourcespace;
+quit
+
+#sudo chmod -R 777 include
+
+
+Acesse o endereço do servidor pelo browser para finalizar a instalação
+
+
