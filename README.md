@@ -20,6 +20,8 @@ O componente "Integração de Dados" possuia o seguinte objetivo:
 
 ## Componentes
 
+- [**Home Page**](http://dados.jbrj.gov.br) é a página de entrada (*home page*) do Portal de Dados.
+
 - [**Ckan**](http://ckan.org/) (acrônimo de Comprehensive Knowledge Archive Network) é uma ferramenta de código livre e aberto baseada na web, criada para a o armazenamento, gestão e publicação de dados abertos. É utilizado em vários sites do governo federal, inclusive no Portal Brasileiro de Dados Abertos.
 
 - [**DSpace**](http://www.dspace.org/) foi desenvolvido para possibilitar a criação de repositórios digitais com funções de armazenamento, gerenciamento, preservação e visibilidade da produção intelectual. Os repositórios DSpace permitem o gerenciamento da produção científica em qualquer tipo de material digital, dando-lhe maior visibilidade e garantindo a sua acessibilidade ao longo do tempo. O DSpace é largamente utilizado em todo mundo. No Brasil, vem recebendo apoio e divulgação do IBICT desde 2004.
