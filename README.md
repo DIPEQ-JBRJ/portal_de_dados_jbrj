@@ -32,6 +32,6 @@ O componente "Integração de Dados" possuia o seguinte objetivo:
 
 - [**Dokuwiki**](https://www.dokuwiki.org/) é uma ferramenta *wiki* para publicação de textos online.
 
-- [**TemaTres**](http://www.vocabularyserver.com/)** é um gerenciador e servidor de Tesauros.
+- [**TemaTres**](http://www.vocabularyserver.com/) é um gerenciador e servidor de Tesauros.
 
-- **[Swagger](http://swagger.io/)** é um *framework* para serviços (API) RESTful.
+- [**Swagger**](http://swagger.io/) é um *framework* para serviços (API) RESTful.
