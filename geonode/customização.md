@@ -1,28 +1,26 @@
-Arquivo de Configuração
+## Arquivo de Configuração
 
 /etc/geonode/localsettings.py
 
-
-Layout e CSS
+## Layout e CSS
 
 CSS: /var/www/geonode/static/lib/css 
 Layout: /var/www/geonode/static/geonode/css
 
 
-Diretórios
+## Diretórios
 
 Geonode - /usr/local/lib/python2.7/dist-packages/geonode
 Geoserver - /usr/share/geoserver/data
 
-
-Adicionar linguagem Português
+## Adicionar linguagem Português
 /usr/local/lib/python2.7/dist-packages/geonode/locale/pt_BR
 
 
-Django settings
+## Django settings
 /usr/local/lib/python2.7/dist-packages/geonode/settings.py
 
 
-Backup
+## Backup
 /usr/share/geoserver/data
 /usr/local/lib/python2.7/dist-packages/geonode
