@@ -31,14 +31,14 @@ vi /etc/tomcat7/server.xml
 
   Adicione as seguintes linhas ao final do arquivo mas antes da linha 
   
- ```html</Host>
+ ```html
   <Context path="/xmlui" docBase="/dspace/webapps/xmlui"/>
-        <Context path="/sword" docBase="/dspace/webapps/sword"/>
-        <Context path="/oai"   docBase="/dspace/webapps/oai"/>
-        <Context path="/jspui" docBase="/dspace/webapps/jspui"/>
-        <Context path="/lni"   docBase="/dspace/webapps/lni"/>
-        <Context path="/solr"  docBase="/dspace/webapps/solr"/>
-        ```
+  <Context path="/sword" docBase="/dspace/webapps/sword"/>
+  <Context path="/oai"   docBase="/dspace/webapps/oai"/>
+  <Context path="/jspui" docBase="/dspace/webapps/jspui"/>
+  <Context path="/lni"   docBase="/dspace/webapps/lni"/>
+  <Context path="/solr"  docBase="/dspace/webapps/solr"/>
+  ```
 
 
 
