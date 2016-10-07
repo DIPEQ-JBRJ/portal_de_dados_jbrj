@@ -1,6 +1,6 @@
 ##Instalação DSpace
 
-1. Sistema Operacional
+- Sistema Operacional
 
 O sistema operacional deve ser atualizado com as versões mais recentes dos softwares já instalados. 
 A instalação será baseada na documentação oficial e utiliza como base o pacote LAMP (Linux, Apache, MairaDB/Mysql e PHP) 
@@ -42,14 +42,14 @@ vi /etc/tomcat7/server.xml
 
 
 
-2. Banco de dados
+- Banco de dados
 
 O banco de dados utilizado é o postgresql e será configurado para suportar o DSpace
 
 Verifique se o banco de dados já existe
 Crie o usuário e acesse o servidor de banco de dados
 
-3. Compilar e instalar o DSpace
+- Compilar e instalar o DSpace
 
 Executar os comandos abaixo para instalar o DSpace.
 
@@ -63,7 +63,7 @@ mvn package
 cd dspace/target/dspace-4.2-build/
 ```
 
-4. Ajustes
+- Ajustes
 
 Ajustar permissões do Tomcat e desabilitar o Mysql.
 
