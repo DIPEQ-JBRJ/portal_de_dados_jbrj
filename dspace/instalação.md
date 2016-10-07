@@ -36,7 +36,8 @@ vi /etc/tomcat7/server.xml
         <Context path="/oai"   docBase="/dspace/webapps/oai"/>
         <Context path="/jspui" docBase="/dspace/webapps/jspui"/>
         <Context path="/lni"   docBase="/dspace/webapps/lni"/>
-        <Context path="/solr"  docBase="/dspace/webapps/solr"/>```
+        <Context path="/solr"  docBase="/dspace/webapps/solr"/>
+        ```
 
 
 
@@ -50,6 +51,7 @@ Crie o usuário e acesse o servidor de banco de dados
 3. Compilar e instalar o DSpace
 
 Executar os comandos abaixo para instalar o DSpace.
+
 ```
 mkdir /dspace
 cd /dspace
