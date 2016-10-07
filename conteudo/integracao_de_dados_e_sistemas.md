@@ -16,4 +16,13 @@ Atenção |
 
 ## Integração de Sistemas
 
-Nossos dados também podem ser integrados a outros sistemas de forma dinâmica, atraves de [*Application Programming Interface* (API)](https://pt.wikipedia.org/wiki/Interface_de_programa%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es) baseada
+Nossos dados também podem ser integrados a outros sistemas de forma dinâmica, atraves de uma [*Application Programming Interface* (API)](https://pt.wikipedia.org/wiki/Interface_de_programa%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es) oferecida como um [*Web Service*](https://pt.wikipedia.org/wiki/Web_service) de baseada na tecnologia [REST](https://pt.wikipedia.org/wiki/REST).
+
+Utilizamos a plataforma aberta [Swagger](http://swagger.io/) para oferecer três diferentes conjuntos de serviços:
+
+- [Serviço de acesso à coleções institucionais via Sistema JABOT](http://servicos.jbrj.gov.br/jabot/)
+- [Serviço de acesso à Flora do Brasil 2020 e a Lista Oficial de Plantas do Brasil](http://servicos.jbrj.gov.br/flora/)
+- [Serviço de acesso aos dados do Centro Nacional de Conservação da Flora (CNCFlora) e a Lista de Espécies Ameaçadas de Extinção](http://cncflora.jbrj.gov.br/services/index.html)
+
+A plataforma Swagger oferece uma interface amigável aos serviços. Entretanto, se necessitar de algum auxílio ou tivr críticas e sugestões à fazer, [entre em contato](http://dados.jbrj.gov.br/contato.php).
+
