@@ -7,6 +7,8 @@ O Portal de Dados da Diretoria de Pesquisas do JBRJ centraliza o acesso, de form
 ##Quais dados estão disponíveis aqui?
 O portal oferece acesso à diferentes ferramentas e sistemas, além de informações sobre os dados em si e formas de integração destes dados com outros sistemas. Procuramos oferecer aqui todos os dados já digitalizados de nossas coleções, bem como o acesso à documentos, planilhas, mapas, publicações e relatórios em formato digital produzidos pela Diretoria de Pesquisas.
 
+Procuramos oferecer nossos dados em diversos formatos e para vários propósitos, para serem acessados e consumidos tanto por "pessoas" quanto por "máquinas".
+
 ##Por que estamos fazendo isso?
 O acesso a informação está previsto na Constituição Federal e na Declaração Universal dos Direitos Humanos. Dados Abertos é a publicação e disseminação dos dados e informações públicas na Internet, organizados de tal maneira que permita sua reutilização em aplicativos digitais desenvolvidos pela sociedade.
 
