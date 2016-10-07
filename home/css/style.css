@@ -1,0 +1,217 @@
+﻿
+.center-div {
+    margin: auto;
+    padding: 0 150px;
+}
+
+.container-space{
+    margin-top:130px;
+
+}
+
+.nav_areas {
+    background: #9c6 none repeat scroll 0 0;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    text-align:center;
+}
+
+.nav_areas .position {
+    margin-top: -28px;
+    position: absolute;
+    width: 1170px;
+    z-index: 2000;
+}
+
+
+
+.nav_areas ul li {
+    background-color: #090;
+    border-right: 2px solid #fff;
+    border-left: 2px solid #fff;
+    color: #fff;
+    cursor: pointer;
+    height: 92px;
+    width: 230px;
+	
+    
+}
+
+
+.nav-justified{
+ 
+	font-size:170%;
+}
+
+.nav-justified li a {
+        color: #fff;
+	margin-top:5px;
+        text-align:center;	
+}
+
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+@media (min-width: 768px) {
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
+}
+footer {
+	background-color: #ddd;
+}
+
+.footer-div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img-footer{
+    margin-left:90px;
+    margin-top: 10px;
+}
+
+.img-footer2{
+    margin-left:150px;
+    margin-top: 10px;
+}
+
+footer p{
+	margin-top: 5px;
+	color:white;
+	margin-bottom: 5px;
+}
+
+#barra-brasil {
+    background: none repeat scroll 0 0 #f1f1f1;
+    border-bottom: 1px solid #dfdfdf;
+    font-family: "Open Sans",Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    height: 32px;
+    line-height: 32px;
+}
+
+
+#wrapper-barra-brasil {
+    height: 100%;
+    margin: 0 auto;
+    max-width: 960px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+#barra-brasil .brasil-flag {
+    border-right: 1px solid #d3a725;
+    float: left;
+    padding: 7px 0 6px;
+    width: 116px;
+}
+
+
+#barra-brasil .brasil-flag .link-barra {
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAATCAMAAAC5m+00AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACrUExURQCXSF27iQCWRQOWSQCWSRCdVACSSgCWRwCVSRKcVv/oAP/yAAIvh/bjBQKVTP/rAK3PF/3sARZBkg05ima2LCqiPg+ZRR9JoermBbGwLwEqkgCST1GwMRqdQZfIHdzgCSdSlTlYbEWrNyNKeouUPHOgtEJsn2WOrSClX2m/lF+6i3q8JsDVEBpCgWN2WefTD8i/IYSstzKmO3eIUaa2h3SOjfvlHjVfq6OmNShvDYIAAAFISURBVCjPbVHXksMgDNQBljC4l9iOndjp5VKv//+XnXByb7fDADO7rNAK9v4DngPv/h/24BHBuEhqB3pCeUxJIAWKtMZlIVCTciogH3yhWMpinM2t7ZctS5UgAR74kVICpMauNrfmaucTpMj5e+4VUNTOEvuzCoL8EvZLJCH1SIHAqKjtehowposwTmbIcqZIt+UpNV/3zWa3HYLp2sZ1gegoPXkNU5M238Ow3d132cIYEyel9MHDLo2NcX4519puPkPmbOIowrdTbGyTZXk2BEH1kZo4LPSjFgq2DFcVc3lWNZbt2rGWIIiwTOztzJZV9W77glCp8RsSNHdc1NfL6rxoxp5JCcmUC1cJjdx0GKZ1hxq0eqYBkuPlzLHrjXuiOAwaDUGQFJyWBpyU7EUaQI/xckGeA98jksqNQLmp8BnB4Xh8+ReHX640GNLt25uiAAAAAElFTkSuQmCC") no-repeat scroll 8px center rgba(0, 0, 0, 0);
+    display: block;
+    line-height: 19px;
+    padding-left: 42px;
+    text-transform: uppercase;
+    width: 43px;
+}
+
+
+
+
+#barra-brasil .acesso-info {
+    left: 130px;
+    position: absolute;
+        border-right: 1px solid #d3a725;
+    float: left;
+    padding: 0 13px;
+}
+
+#barra-brasil .link-barra {
+    color: #606060;
+}
+
+#barra-brasil .list {
+        border-left: 1px solid #d3a725;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+#barra-brasil .list-item {
+    border-right: 1px solid #d3a725;
+    display: inline-block;
+    float: left;
+    height: 32px;
+    padding: 0 15px 0 14px;
+}
+
+#barra-brasil ul {
+    list-style: outside none none;
+        padding: 0 0 0 1.5em;
+        margin: 0 0 1.4em;
+}
+
+#barra-brasil a, #barra-brasil ul, #barra-brasil li {
+    font-family: inherit;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+#barra-brasil a, #barra-brasil ul, #barra-brasil li {
+    font-family: inherit;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
