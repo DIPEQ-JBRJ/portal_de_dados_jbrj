@@ -16,5 +16,5 @@ Em 18 de novembro de 2011 foi sancionada a Lei de Acesso à Informação Públic
 Pesquisadores, analistas e cientistas de dados, gestores de sistema de informação sobre biodiversidade e, de forma geral, indivíduos da sociedade que buscam dados de qualidade sobre a biodiversidade vegetal brasileira.
 
 ##Gostaria de ter um portal destes para minha instituição. Como fazer?
-Entre em contato conosco [clicando aqui](http://dados.jbrj.gov.br/contato.php) e teremos prer em ajudar! Você pode acessar os arquivos de configuração das ferramentas e fontes do portal [na página do GitHub](https://github.com/DIPEQ-JBRJ/portal_de_dados_jbrj)
+Entre em contato conosco [clicando aqui](http://dados.jbrj.gov.br/contato.php) e teremos prer em ajudar! Você pode acessar os arquivos de configuração das ferramentas e fontes do portal [na página do GitHub](https://github.com/DIPEQ-JBRJ/portal_de_dados_jbrj).
 
