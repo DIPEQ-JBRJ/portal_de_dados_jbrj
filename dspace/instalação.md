@@ -30,7 +30,8 @@ vi /etc/tomcat7/server.xml
 ```
 
   Adicione as seguintes linhas ao final do arquivo mas antes da linha 
-  ```</Host>
+  
+ ```html</Host>
   <Context path="/xmlui" docBase="/dspace/webapps/xmlui"/>
         <Context path="/sword" docBase="/dspace/webapps/sword"/>
         <Context path="/oai"   docBase="/dspace/webapps/oai"/>
