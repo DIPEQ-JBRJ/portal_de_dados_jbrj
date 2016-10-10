@@ -24,5 +24,5 @@ Utilizamos a plataforma aberta [Swagger](http://swagger.io/) para oferecer três
 - [Serviço de acesso à Flora do Brasil 2020 e a Lista Oficial de Plantas do Brasil](http://servicos.jbrj.gov.br/flora/)
 - [Serviço de acesso aos dados do Centro Nacional de Conservação da Flora (CNCFlora) e a Lista de Espécies Ameaçadas de Extinção](http://cncflora.jbrj.gov.br/services/index.html)
 
-A plataforma Swagger oferece uma interface amigável aos serviços. Entretanto, se necessitar de algum auxílio ou tivr críticas e sugestões à fazer, [entre em contato](http://dados.jbrj.gov.br/contato.php).
+A plataforma Swagger oferece uma interface amigável aos serviços. Entretanto, se necessitar de algum auxílio ou tiver críticas e sugestões à fazer, [entre em contato](http://dados.jbrj.gov.br/contato.php).
 
