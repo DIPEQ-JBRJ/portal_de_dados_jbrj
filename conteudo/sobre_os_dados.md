@@ -1,5 +1,7 @@
 #Sobre os Dados
 
+Nos links abaixo você encontra descrições detalhadas dos dados que oferecemos via [IPT](http://ipt.jbrj.gov.br/).
+
 - Dados de Coleções
   - Coleções Preservadas
     - [Herbário RB](http://dadoswiki.jbrj.gov.br/doku.php?id=colecoes:herbario)
