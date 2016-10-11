@@ -1,1 +1,1 @@
-Aqui vem os arquivos de configuração do Swagger e dos serviços
+O objetivo da Swagger é definir um padrão de interface que permite que os seres humanos e computadores para descobrir e compreender as capacidades do serviço sem acesso ao código fonte, documentação, ou através de inspeção de tráfego de rede. Quando definido adequadamente através Swagger, um consumidor pode entender e interagir com o serviço remoto com uma quantidade mínima de lógica de implementação. 
