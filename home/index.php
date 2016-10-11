@@ -99,10 +99,7 @@
                         <a href="sobreosdados.php">Os Dados</a>
                     </li>
                     <li>
-                        <a href="integracao.php">Integração de Sistemas</a>
-                    </li>
-                    <li>
-                        <a href="http://dados.jbrj.gov.br/wiki">Wiki</a>
+                        <a href="integracao.php">Integração de Dados e Sistemas</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Ferramentas de Publicação<b class="caret"></b></a>
@@ -229,7 +226,7 @@
 	            </div>
 	            <div class="col-lg-4 col-sm-6 text-center">
 	                    <a href="integracao.php" target="_blank"><img class="img-responsive customer-img img-center" height="100" width="100" src="images/integracao.png" alt=""></a>
-				<h4>Integração de Sistemas</h4>
+				<h4>Integração de Dados e Sistemas</h4>
 	            </div>
         	</div>
        </div>

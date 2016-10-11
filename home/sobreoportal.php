@@ -96,10 +96,7 @@
                         <a href="sobreosdados.php">Os Dados</a>
                     </li>
                     <li>
-                        <a href="integracao.php">Integração de Sistemas</a>
-                    </li>
-                    <li>
-                        <a href="http://dados.jbrj.gov.br/wiki">Wiki</a>
+                        <a href="integracao.php">Integração de Dados e Sistemas</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Ferramentas de Publicação<b class="caret"></b></a>
@@ -164,9 +161,10 @@
      <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12"> 
-                <h2 class="page-header">Sobre o Portal
-                    <small></small>
+                <h2 class="page-header">Sobre o Portal de Dados
+                    
                 </h2>
+                <p>Modelo: <a href="http://dados.gov.br/sobre/">http://dados.gov.br/sobre/</a></p>
                 
             </div>
         </div>
@@ -175,17 +173,41 @@
         <!-- Intro Content -->
         <div class="row">
             <div class="col-md-12">
-                <img class="img-responsive customer-img img-center"   src="images/cabecalho3.png" alt="">
+                <h3 class="page-header">O que é?</h3>
+                <p>O Portal de Dados da Diretoria de Pesquisas do JBRJ centraliza o acesso, de forma aberta e gratuita, aos dados e informações sobre biodiversidade produzidos ou sob a guarda da instituição, para que todos possam encontrar e utilizar estes dados de forma fácil e rápida.</p>
             </div>
         </div>
 
         <div class="row">
             <div class="col-md-12">
-                <h3 class="page-header">Organização dos Dados
-                    <small></small>
-                </h3>
-                <p>Os dados provenientes dos Projetos e Coleções, conforme detalhado no gráfico abaixo, estão organizados por "tipos", aqui chamados de "Classes"</p>
-                <img class="img-responsive customer-img img-center"   src="images/organizacao.png" alt="">
+                <h3 class="page-header">Quais dados estão disponíveis aqui?</h3>
+                <p>O portal oferece acesso à diferentes ferramentas e sistemas, além de informações sobre os dados em si e formas de integração destes dados com outros sistemas. Procuramos oferecer aqui todos os dados já digitalizados de nossas coleções, bem como o acesso à documentos, planilhas, mapas, publicações e relatórios em formato digital produzidos pela Diretoria de Pesquisas.</p>
+                <p>Procuramos oferecer nossos dados em diversos formatos e para vários propósitos, para serem acessados e consumidos tanto por "pessoas" quanto por "máquinas".</p>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="page-header">Por que estamos fazendo isso?</h3>
+                <p>O acesso a informação está previsto na Constituição Federal e na Declaração Universal dos Direitos Humanos. Dados Abertos é a publicação e disseminação dos dados e informações públicas na Internet, organizados de tal maneira que permita sua reutilização em aplicativos digitais desenvolvidos pela sociedade.</p>
+                <p>Em 18 de novembro de 2011 foi sancionada a Lei de Acesso à Informação Pública (Lei 12.527/2011) que regula o acesso a dados e informações detidas pelo governo. Essa lei constitui um marco para a democratização da informação pública, e preconiza, dentre outros requisitos técnicos, que a informação solicitada pelo cidadão deve seguir critérios tecnológicos alinhados com as “3 leis de dados abertos”. Dentro desse contexto o Portal de Dados da Diretoria de Pesquisas do Instituto de Pesquisas Jardim Botânico do Rio de Janeiro é a ferramenta para centralizar a busca e o acesso dos dados e informações públicas sobre biodiversidade produzidas ou sob a guarda da instituição.</p>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="page-header">A quem interessa?</h3>
+                <p>Pesquisadores, analistas e cientistas de dados, gestores de sistema de informação sobre biodiversidade e, de forma geral, indivíduos da sociedade que buscam dados de qualidade sobre a biodiversidade vegetal brasileira.</p>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="page-header">Gostaria de ter um portal destes para minha instituição. Como fazer?</h3>
+                <p>Entre em contato conosco clicando <a href="contato.php">aqui</a> e teremos prer em ajudar! Você também pode conhecer detalhes técnicos de implementação do portal e das ferramentas na <a href="http://github.com/DIPEQ-JBRJ/portal_de_dados_jbrj">página do GitHub</a>.</p>
             </div>
         </div>
         <!-- /.row -->

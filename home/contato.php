@@ -96,10 +96,7 @@
                         <a href="sobreosdados.php">Os Dados</a>
                     </li>
                     <li>
-                        <a href="integracao.php">Integração de Sistemas</a>
-                    </li>
-                    <li>
-                        <a href="http://dados.jbrj.gov.br/wiki">Wiki</a>
+                        <a href="integracao_de_dados_e_sistemas.php">Integração de Dados e Sistemas</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Ferramentas de Publicação<b class="caret"></b></a>
@@ -236,9 +233,7 @@
 
         </div>
         <!-- /.row -->
-
-        <hr>
-       
+       <br>
     </div>
     <!-- /.container -->
 

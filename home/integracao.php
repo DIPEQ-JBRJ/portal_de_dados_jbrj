@@ -96,10 +96,7 @@
                         <a href="sobreosdados.php">Os Dados</a>
                     </li>
                     <li>
-                        <a href="integracao.php">Integração de Sistemas</a>
-                    </li>
-                    <li>
-                        <a href="http://dados.jbrj.gov.br/wiki">Wiki</a>
+                        <a href="integracao_de_dados_e_sistemas.php">Integração de Dados e Sistemas</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Ferramentas de Publicação<b class="caret"></b></a>
@@ -164,7 +161,7 @@
      <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12"> 
-                <h2 class="page-header">Integração de Sistemas
+                <h2 class="page-header">Integração de Dados e Sistemas
                     <small></small>
                 </h2>
                 
@@ -176,32 +173,7 @@
 
         <div class="row">
             <div class="col-md-12">
-                <p>Os dados são acessados através dos Sistemas de Informação, 
-                Ferramentas de Publicação de Dados específicas ou serviços baseados na Web. Os dados são assim expostos para serem pesquisados, 
-                para visualização, “download” e para integração com diferentes Sistemas de Informação, como o GBIF e o SiBBr.</p>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <div class="row">
-            <div class="col-md-12">
-                <h3>Sistemas de Informações Institucionais</h3>
-                    <p>Correspondem à ferramentas de acesso rápido, destinadas para o público em geral e pesquisadores que buscam consultar as informações produzidas e oferecidas pela instituição.</p>
-                <div class="col-md-2 col-sm-4 col-xs-6">
-                    <img class="img-responsive customer-img" src="images/banner2020v4.png" alt="">
-                </div>
-                <div class="col-md-2 col-sm-4 col-xs-6">
-                    <img class="img-responsive customer-img" src="images/lista_vermelha_cncflora.jpg" alt="">
-                </div>
-                <div class="col-md-2 col-sm-4 col-xs-6">
-                    <img class="img-responsive customer-img" src="images/jabot.jpg" alt="">
-                </div>
-                <div class="col-md-2 col-sm-4 col-xs-6">
-                    <img class="img-responsive customer-img" src="images/reflora.jpg" alt="">
-                </div>
-                <div class="col-md-2 col-sm-4 col-xs-6">
-                    <img class="img-responsive customer-img" src="images/florario.jpg" alt="">
-                </div>
+                <p>Este Portal de Dados oferece ferramentas específicas para e integração dos nossos dados em outros sistemas, e para a integração de outros sistemas com nossos sistemas.</p>
             </div>
         </div>
         <!-- /.row -->
@@ -209,137 +181,49 @@
 
          <div class="row">
             <div class="col-md-12">
-                <h3>Ferramentas de Publicação de Dados e Metadados</h3>
-                <p>As ferramentas de publicação de dados e metadados oferecem uma interface de acesso, consulta e “descobrimento” dos dados e metadados institucionais,tanto para pessoas como para “máquinas” (outros computadores).</p>
-                 <p>As ferramentas aqui listadas foram escolhidas pela sua compatibilidade com padrões internacionais de dados e metadados, por serem adotadas em muitas iniciativasnacionais e internacionais semelhantes, e privilegiando aquelas gratuitas e de código aberto.</p>
-                  <p>Maiores detalhes sobre as ferramentas adotadas e avaliadas, incluindo detalhes técnicos de requisitos de hardware e software, podem ser visto na página de detalhes 
-                  técnicos das ferramentas avaliadas. </p>
+                <h3 class="page-header">Integração dos Dados</h3>
+                <p>Você pode usar nossos dados para integrar no seu sistema, "baixando" (download) os conjuntos de dados atualizados no formato <a href="http://dadoswiki.jbrj.gov.br/doku.php?id=padroes#darwin_core">Darwin Core Archive</a>, através da ferramenta <a href="http://www.gbif.org/ipt">Integrated Publishing Toolkit (IPT)</a>. O IPT é uma ferramenta de software livre de código aberto que é usado para publicar e compartilhar conjuntos de dados sobre biodiversidade através das redes SiBBr e GBIF. Projetado para a interoperabilidade, que permite a publicação de conteúdo em bancos de dados, os dados e metadados são publicados utilizando os padrões Darwin Core Archive e Ecological Metadata Language, respectivamente.</p>
+                <p>Temos dois IPTs funcionando hoje para ofertar conjuntos de dados para download:</p>
 
-                   <div class="row">
-                        <div class="col-md-12">
-                          <h4>Integrated Publishing Toolkit (IPT) - Dados de ocorrência e listas de espécies</h4>
-                            <p>O IPT é uma ferramenta de software livre de código aberto que é usado para publicar e compartilhar conjuntos de dados sobre biodiversidade através das redes SiBBr e GBIF.</p>
-                            <p>Projetado para a interoperabilidade, que permite a publicação de conteúdo em bancos de dados, os dados e metadados são publicados utilizando os padrões Darwin Core Archive e Ecological Metadata Language, respectivamente. </p>
-                            <p>Uso institucional: O IPT é utilizado para a publicação de dados sobre ocorrências de espécimes na natureza e para listagens regionais de espécies. </p>
-                            <p>Acesso: <a href="http://dados.jbrj.gov.br/ipt">dados.jbrj.gov.br/ipt</a></p> 
-                            <p><a href="http://dadoswiki.jbrj.gov.br/doku.php?id=ferramentas:detalhes#ipt">Para detalhes técnicos acesse aqui</a></p>                      
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-md-12">
-                          <h4>DSpace - Documentos em texto e apresentações</h4>
-                            <p>O DSpace é uma ferramenta de software livre de código aberto de escolha para acadêmicos e organizações comerciais para a construção de repositórios digitais abertos. 
-                                Ele é gratuito e completamente personalizável para atender às necessidades de qualquer organização.</p>
-                            <p>Uso institucional: O DSpace é utilizado para publicação de documentos de produção intelectual, como livros e relatórios, e apresentações em formato de slides. </p>
-                            <p>Acesso: <a href="http://dados.jbrj.gov.br/documentos">dados.jbrj.gov.br/documentos</a></p>
-     			            <p><a href="http://dadoswiki.jbrj.gov.br/doku.php?id=ferramentas:detalhes#dspace">Para detalhes técnicos acesse aqui</a></p>
-                         </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-md-12">
-                          <h4>CKan - Planilhas</h4>
-                            <p>O Ckan é um poderoso sistema de gerenciamento e publicação de dados, fornecendo ferramentas para agilizar a publicação, o compartilhamento, a descoberta e o uso de dados. 
-                                Ele é destinado a editores de dados (governos nacionais e regionais, empresas e organizações) que querem fazer os seus dados abertos e disponíveis. </p>
-                            <p>Uso institucional: O CKAN é utilizado para publicação de dados estruturados em formato de planilhas. </p>
-                            <p>Acesso: <a href="http://dados.jbrj.gov.br/planilhas">dados.jbrj.gov.br/planilhas</a></p>
-			                 <p><a href="http://dadoswiki.jbrj.gov.br/doku.php?id=ferramentas:detalhes#ckan">Para detalhes técnicos acesse aqui</a></p>
-                         </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-md-12">
-                          <h4>Geonode - Dados geoespaciais - Dados de ocorrência e listas de espécies</h4>
-                            <p>O GeoNode é um Content Management System (CMS) de código aberto para dados geoespaciais. É uma aplicação baseada na web para o desenvolvimento de sistemas de informação 
-                                geoespacial (SIG) e para a implantação de infra-estruturas de Dados Espaciais (IDE). </p>
-                            <p>Uso institucional: O Geonode está em fase de testes pela equipe do Centro Nacional de Conservação da Flora para publicação de dados geoespaciais.</p>
-                            <p>Acesso: <a href="http://dados.jbrj.gov.br/geonode">dados.jbrj.gov.br/geonode</a></p>
-			                <p><a href="http://dadoswiki.jbrj.gov.br/doku.php?id=ferramentas:detalhes#geonode">Para detalhes técnicos acesse aqui</a></p>
-                         </div>
-                    </div>
-
-                     <div class="row">
-                        <div class="col-md-12">
-                          <h4>ResourceSpace - Banco de imagens</h4>
-                            <p>O ResourceSpace é um software de código aberto para publicação de ativos digitais. </p>
-                            <p>Uso institucional: Ferramenta utilizada como Banco de Imagens da DIPEQ/JBRJ. </p>
-                            <p>Acesso: <a href="http://dados.jbrj.gov.br/imagens">dados.jbrj.gov.br/imagens</a></p>
-			                <p><a href="http://dadoswiki.jbrj.gov.br/doku.php?id=ferramentas:detalhes#resourcespace">Para detalhes técnicos acesse aqui</a></p>
-                         </div>
-                    </div>
-
-                     <div class="row">
-                        <div class="col-md-12">
-                          <h4>FSI - Visualizador de imagens de exsicatas</h4>
-                            <p>O FSI é um repositório digital para imagens de alta resolução com a funcionalidade de exportação para websites. </p>
-                            <p>Uso institucional: Ferramenta utilizada como repositório e visualizador das imagens de exsicatas nos sistemas do Jabot e Reflora</p>
-			                <p><a href="http://dadoswiki.jbrj.gov.br/doku.php?id=ferramentas:detalhes#fsi">Para detalhes técnicos acesse aqui</a></p>
-                         </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-md-12">
-                          <h4>Dokuwiki - Wiki do Portal de Dados da DIPEQ-JBRJ</h4>
-                            <p>O DokuWiki e uma ferramenta wiki utilizada como interface para o portal de dados onde serão divulgados todos os recursos de informação sobre biodiversidade publicados pela 				Diretoria de Pesquisas do Jardim Botânico do Rio de Janeiro (DIPEQ-JBRJ) </p>
-			                <p>Acesso: <a href="http://dados.jbrj.gov.br/wiki">dados.jbrj.gov.br/wiki</a></p>
-			                <p><a href="http://dadoswiki.jbrj.gov.br/doku.php?id=ferramentas:detalhes#dokuwiki">Para detalhes técnicos acesse aqui</a></p>
-                         </div>
-                    </div>       
+                <ul>
+                    <li><a href="http://ipt.jbrj.gov.br/jbrj">IPT com dados das coleções institucionais e listas de espécies</a></li>
+                    <li><a href="http://ipt.jbrj.gov.br/reflora">IPT com dados do Herbário Virtual REFLORA</a></li>
+                </ul>
+                   
             </div>
         </div>
         <!-- /.row -->  
 
         <div class="row">
-            <div class="col-lg-12">
-                <h3 class="page-header">Web Services - Acesso via sistemas</h3>
-                <p>Web services são soluções utilizadas na integração de sistemas e na comunicação entre aplicações diferentes. São para desenvolvedores web que buscam utilizar as informações produzidas e oferecidas pela instituição para integração em outros sistemas. </p>
-            </div>
-            <div class="col-md-4">
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Coleções do JBRJ</h4>
-                        <p><a href="http://servicos.jbrj.gov.br/jabot" target="_blank">http://servicos.jbrj.gov.br/jabot</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Lista de Espécies da Flora do Brasil</h4>
-                        <p><a href="http://servicos.jbrj.gov.br/flora">http://servicos.jbrj.gov.br/flora</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Lista Vermelha da Flora do Brasil</h4>
-                        <p><a href="http://cncflora.jbrj.gov.br/services/">http://cncflora.jbrj.gov.br/services/</a></p>
-                    </div>
+            <div class="col-md-12">
+               <div class ="warning">
+                <p>Atenção</p>
+                <p>Note que os dados no IPT, oferecidos no formato Darwin Core Archive, são mais adequados ao consumo por "máquinas", ou seja, outros computadores. Caso deseje "baixar" nossos dados no formato de uma planilha eletrônica, por exemplo, use esta ferramenta <a href="http://ckan.jbrj.gov.br/jabot/">aqui</a>.</p>
                 </div>
             </div>
         </div>
-        <!-- /.row -->
-    <br>
+        <!-- /.row --> 
+
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="page-header">Integração de Sistemas</h3>
+                <p>Nossos dados também podem ser integrados a outros sistemas de forma dinâmica, atraves de uma <a href="https://pt.wikipedia.org/wiki/Interface_de_programações">Application Programming Interface (API)</a>oferecida como um <a href="https://pt.wikipedia.org/wiki/Web_service">Web Service</a> de baseada na tecnologia <a href="https://pt.wikipedia.org/wiki/REST">REST</a>.</p>
+                <p>Utilizamos a plataforma aberta <a href="http://swagger.io/">Swagger</a> para oferecer três diferentes conjuntos de serviços:</p>
+
+                <ul>
+                    <li><a href="http://servicos.jbrj.gov.br/jabot/">Serviço de acesso à coleções institucionais via Sistema JABOT</a></li>
+                    <li><a href="http://servicos.jbrj.gov.br/flora/">Serviço de acesso à Flora do Brasil 2020 e a Lista Oficial de Plantas do Brasil</a></li>
+                    <li><a href="http://cncflora.jbrj.gov.br/services/index.html">Serviço de acesso aos dados do Centro Nacional de Conservação da Flora (CNCFlora) e a Lista de Espécies Ameaçadas de Extinção</a></li>
+                </ul>
+
+                <p>A plataforma Swagger oferece uma interface amigável aos serviços. Entretanto, se necessitar de algum auxílio ou tiver críticas e sugestões à fazer, <a href="contato.php">entre em contato.</a></p>
+            </div>
+        </div>
+        <br>
+        <br>
+        <!-- /.row -->  
+
+        
     </div>
     <!-- /.container -->
 

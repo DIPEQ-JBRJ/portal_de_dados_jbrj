@@ -96,10 +96,7 @@
                         <a href="sobreosdados.php">Os Dados</a>
                     </li>
                     <li>
-                        <a href="integracao.php">Integração de Sistemas</a>
-                    </li>
-                    <li>
-                        <a href="http://dados.jbrj.gov.br/wiki">Wiki</a>
+                        <a href="integracao.php">Integração de Dados e Sistemas</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Ferramentas de Publicação<b class="caret"></b></a>
@@ -209,24 +206,14 @@
         Ainda sobre os dados:
         <ul>
             <li><a href="http://dadoswiki.jbrj.gov.br/doku.php?id=classes">Dicionários de Classes</a></li>
-            <li><a href="http://dadoswiki.jbrj.gov.br/doku.php?id=termos">Termos e Vocabulários Adotados</a></li>
+            <li><a href="http://vocab.jbrj.gov.br/vocab/index.php">Termos e Vocabulários Adotados</a></li>
             <li><a href="http://dadoswiki.jbrj.gov.br/doku.php?id=padroes">Padrões de Dados Utilizados</a></li>
         </ul>
             </div>        
            
         </div>
         <!-- /.row -->
-        <div class="row">
-            <div class="col-lg-12">
-                <br>
-        <br>
-        <br>
-        <br>
-        <br>
-            </div>
-           
-       
-    </div>
+    
        
     </div>
     <!-- /.container -->
