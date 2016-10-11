@@ -1,1 +1,3 @@
-Aqui vem os arquivos de configuração do TemaTres
+TemaTres é uma ferramenta para o desenvolvimento e gestão de vocabulários controlados e outros tipos de representações formais do conhecimento. Ele possui características especialmente concebidas para fornecer rastreabilidade de dados e controle de qualidade no contexto de um vocabulário controlado.
+
+TemaTres apoia a análise e categorização dos termos de pesquisa. Ele permite que os vocabulários possam ser representados em uma ampla gama de padrões de metadados relevantes para a gestão do conhecimento. Também fornece uma interface de serviços da Web que permite vocabulários controlados para serem tegrados com outras plataformas de gestão.
