@@ -36,4 +36,4 @@ O componente "Integração de Dados" possuia o seguinte objetivo:
 
 - [**Swagger**](http://swagger.io/) é um *framework* para serviços (API) RESTful.
 
-Mais informações também [neste artigo](https://eduardo.dalc.in/uma-arquitetura-para-publicao-de-informaes-sobre-biodiversidade/) 
+Mais informações também [neste artigo](https://eduardo.dalc.in/uma-arquitetura-para-publicao-de-informaes-sobre-biodiversidade/).
