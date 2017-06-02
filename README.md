@@ -35,3 +35,5 @@ O componente "Integração de Dados" possuia o seguinte objetivo:
 - [**TemaTres**](http://www.vocabularyserver.com/) é um gerenciador e servidor de Tesauros.
 
 - [**Swagger**](http://swagger.io/) é um *framework* para serviços (API) RESTful.
+
+Mais informações também [neste artigo](https://eduardo.dalc.in/uma-arquitetura-para-publicao-de-informaes-sobre-biodiversidade/) 
